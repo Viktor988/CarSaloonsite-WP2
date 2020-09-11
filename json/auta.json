@@ -1,0 +1,117 @@
+[
+{
+"model":"BMW 116i",
+"cena":18000,
+"src":"slike/hec1.jpg",
+"emisionaKlasa":"Euro 5",
+"pogon":"Zadnji",
+"menjac":"Manuelni 6 brzina",
+"stranaVolana":"Leva",
+"brojVrata":"4/5",
+"gorivo":"Benzin",
+"karoserija":1
+
+},
+{
+"model":"BMW X3d",
+"cena":35000,
+"src":"slike/dzip3.jpg",
+"emisionaKlasa":"Euro 5",
+"pogon":"Zadnji",
+"menjac":"Manuelni 6 brzina",
+"stranaVolana":"Leva",
+"brojVrata":"4/5",
+"gorivo":"Dizel",
+"karoserija":3
+},
+{
+"model":"BMW 320i",
+"cena":28000,
+"src":"slike/lim3.jpg",
+"emisionaKlasa":"Euro 5",
+"pogon":"Zadnji",
+"menjac":"Manuelni 6 brzina",
+"stranaVolana":"Leva",
+"brojVrata":"4/5",
+"gorivo":"Benzin",
+"karoserija":2
+},
+
+{
+"model":"BMW X5d",
+"cena":45000,
+"src":"slike/dzip2.jpg",
+"emisionaKlasa":"Euro 5",
+"pogon":"Zadnji",
+"menjac":"Manuelni 6 brzina",
+"stranaVolana":"Leva",
+"brojVrata":"4/5",
+"gorivo":"Dizel",
+"karoserija":3
+},
+
+{
+"model":"BMW 120i",
+"cena":21000,
+"src":"slike/hec5.jpg",
+"emisionaKlasa":"Euro 5",
+"pogon":"Zadnji",
+"menjac":"Manuelni 6 brzina",
+"stranaVolana":"Leva",
+"brojVrata":"4/5",
+"gorivo":"Benzin",
+"karoserija":1
+},
+
+{
+"model":"BMW 520d",
+"cena":31000,
+"src":"slike/lim1.jpg",
+"emisionaKlasa":"Euro 5",
+"pogon":"Zadnji",
+"menjac":"Manuelni 6 brzina",
+"stranaVolana":"Leva",
+"brojVrata":"4/5",
+"gorivo":"Dizel",
+"karoserija":2
+},
+{
+"model":"BMW 118i",
+"cena":23000,
+"src":"slike/hec4.jpg",
+"emisionaKlasa":"Euro 5",
+"pogon":"Zadnji",
+"menjac":"Manuelni 6 brzina",
+"stranaVolana":"Leva",
+"brojVrata":"4/5",
+"gorivo":"Benzin",
+"karoserija":1
+},
+{
+"model":"BMW X7i",
+"cena":56000,
+"src":"slike/dzip1.jpg",
+"emisionaKlasa":"Euro 5",
+"pogon":"Zadnji",
+"menjac":"Manuelni 6 brzina",
+"stranaVolana":"Leva",
+"brojVrata":"4/5",
+"gorivo":"Benzin",
+"karoserija":3
+},
+{
+"model":"BMW 525d",
+"cena":42000,
+"src":"slike/lim4.jpg",
+"emisionaKlasa":"Euro 5",
+"pogon":"Zadnji",
+"menjac":"Manuelni 6 brzina",
+"stranaVolana":"Leva",
+"brojVrata":"4/5",
+"gorivo":"Dizel",
+"karoserija":2
+}
+
+
+
+]
